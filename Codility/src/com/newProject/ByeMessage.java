@@ -7,7 +7,7 @@ public class ByeMessage {
 		System.out.println("End");
 		System.out.println("...");
 		System.out.println("...");
-		System.out.println("Khatam!! Gaya!!");
+		System.out.println("Wahh modiji!! wah!!");
 	}
 
 }
